@@ -1,20 +1,21 @@
 <p>
-    Nicola decided to build a round landing zone using the ice square tiles. The landing zone must be circular. But
-    Nicola has to know how many tiles he needed for construction.
+    Nicola needs some help building a circular landing zone using the ice square tiles for their new Ice Base. 
+    Before he begins construction, Nikola needs to figure out how many square tiles he will need.
 </p>
 <p>
-    The square tile has size 1x1 meter. You need to calculate how many to solid and partial tiles for circle with radius
-    N meters. The center of the circle is at the intersection of tiles. For example: For the circle with radius 2 metres
-    need 4 solid and 12 partial tiles.
+    Each square tile has size of 1x1 meters. 
+    You need to calculate how many whole and partial tiles are needed for a circle with a radius of N meters. 
+    The center of the circle will be at the intersection of four tiles. For example: a circle with a radius of 2 metres
+    requires 4 whole tiles and 12 partial tiles.
 <p>
 <p style="text-align: center;">
     <img class="for_info_only" src="{{ MEDIA }}counting-tiles.png" width="500px"/>
     <img class="for_editor_only" src="{{ MEDIA }}counting-tiles.png" width="380px"/>
 </p>
 
-<p><strong>Input:</strong> Radius of circle, a float</p>
+<p><strong>Input:</strong> The radius of a circle as a float</p>
 
-<p><strong>Output:</strong> Two numbers of quantities solid and partial tiles as a list, [solid, partial]</p>
+<p><strong>Output:</strong> The quantities whole and partial tiles as a list, [solid, partial] as numbers.</p>
 
 <div class="for_info_only"><strong>Example:</strong>
 <pre class="brush:python">
@@ -26,7 +27,4 @@ checkio(2.5) == [12, 20]
 </div>
 
 
-<p class="for_info_only">
-    <strong>How it is used: </strong>
 
-</p>
