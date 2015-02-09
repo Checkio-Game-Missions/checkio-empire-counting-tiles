@@ -1,4 +1,4 @@
-checkio-task-counting-tiles
+counting-tiles
 ===========================
 
-Checkio Task "Counting tiles"
+Crystal Store "Counting tiles"
