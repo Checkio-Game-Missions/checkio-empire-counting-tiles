@@ -1,2 +1,1 @@
-We need to replace floor tiles in our silos, 
-but How to figure out how many square tiles we will need?
+We need to replace the floor tiles in our silos with new - stronger square tiles, but how many tiles we will need?
