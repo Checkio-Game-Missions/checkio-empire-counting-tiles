@@ -3,4 +3,4 @@ You need to calculate how many whole and partial tiles are needed for a circle w
 The center of the circle will be at the intersection of four tiles. For example: a circle with a radius of 2 metres
 requires 4 whole tiles and 12 partial tiles.
 
-![Tiles](counting-tiles.png.svg)
+![Tiles](counting-tiles.png)
