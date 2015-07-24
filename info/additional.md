@@ -1,6 +1,6 @@
 **Scoring:**
 
-In this mission the main goal to make your code as short as possible.
+In this mission the main goal is to make your code as short as possible.
 The shorter your code, the more points you earn.
 Your score for this mission is dynamic and directly related to the length of your code.
 
