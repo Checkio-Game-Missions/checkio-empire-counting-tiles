@@ -11,4 +11,5 @@ function golf(radius){
 //    assert.deepEqual(golf(3), [16, 20], "2nd");
 //    assert.deepEqual(golf(2.1), [4, 20], "3rd");
 //    assert.deepEqual(golf(2.5), [12, 20], "4th");
+//    console.log("All set? Click 'Check' to review your code and earn rewards!");
 //}
